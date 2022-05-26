@@ -7,7 +7,7 @@ function App() {
 
     var config = {
       method: "get",
-      url: "http://localhost:3000/api",
+      url: "http://35.78.114.90:3000/api",
       headers: {},
     };
   
